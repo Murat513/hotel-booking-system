@@ -1,4 +1,4 @@
-.bash_history
+
 .gitconfig
 .lesshst
 .vscode/
@@ -13,6 +13,7 @@ Music/
 NTUSER.DAT*
 OneDrive/
 PCManger/
+.bash_history
 Pictures/
 Saved Games/
 Searches/
@@ -21,3 +22,11 @@ ntuser.dat.*
 ntuser.ini
 
 !IdeaProjects/
+.idea/
+.vscode/
+*.class
+*.log
+*.tmp
+.venv/
+.DS_Store
+Thumbs.db
