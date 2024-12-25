@@ -112,7 +112,6 @@ class Booking {
         this.numberOfNights = numberOfNights;
     }
 
-    @Override
     public String toString() {
         return "Booking{" +
                 "room=" + room +
